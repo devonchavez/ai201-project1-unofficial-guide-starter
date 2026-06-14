@@ -24,27 +24,17 @@ My domain will cover what the best and afforadable options to eat within and out
      Be specific: include URLs, subreddit names, forum thread titles, or file names.
      Aim for variety — sources that together cover different subtopics or perspectives. -->
 
-|| # | Source | Type | URL or file path |
+ # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | Best Food on Campus or off (sfsu reddit) | forums | https://www.reddit.com/r/SFSU/
-comments/1fe4on9/best_food_on_campus_or_off/ |
-
+| 1 | Best Food on Campus or off (sfsu reddit) | forums | https://www.reddit.com/r/SFSU/comments/1fe4on9/best_food_on_campus_or_off/ |
 | 2 | hall of flame burger reviews (yelp) | reviews | https://www.yelp.com/biz/hall-of-flame-burgers-san-francisco?osq=Restaurants+Near+Sfsu&sort_by=elites_desc |
-
 | 3 | cafe roso reviews (yelp) | reviews | https://www.yelp.com/biz/cafe-rosso-san-francisco?sort_by=elites_desc |
-
 | 4 | blog post of top 5 places to eat off campus (goldengateexpress) | blog post | https://goldengatexpress.org/113255/opinion/opinion-top-five-off-campus-eateries-around-sfsu/ |
-
 | 5 | halal shop yelp reviews (yelp) | reviews | https://www.yelp.com/biz/halal-shop-san-francisco-2?osq=Restaurants+Near+Sfsu&sort_by=elites_desc |
-
 | 6 | natural selections yelp reviews (yelp) | reviews | https://www.yelp.com/biz/natural-sensations-san-francisco?sort_by=elites_desc |
-
 | 7 | blog post about monarca a food dining hall (goldengateexpress) | blog post | https://goldengatexpress.org/107839/opinion gator-take-monarca-dining-hall-formerly-city-eats-is-not-bad/ |
-
 | 8 | blog post about top places to eat around sfsu form society 19 (society19) | article | https://www.society19.com/guide-eating-sfsu-campus/ |
-
 | 9 | article about campus restaurant run by sudents | food | https://www.smpltxt.net/2024/12/18/beyond-routine-san-francisco-states-elevated-dining/ |
-
 | 10 | an article about top places to eat around sf as an sfsu student (xpressmagazine) | article | https://xpressmagazine.org/5585/fall-2013/the-best-of-san-francisco-sf-state-edition/ |
 
 ---
