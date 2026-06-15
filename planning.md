@@ -79,7 +79,7 @@ If i were deploying this llm for real id want to be able to have a longer contex
 | # | Question | Expected answer |
 |---|----------|-----------------|
 | 1 | Does the Vista Room have a set or rotating menu? | The Vista Room at SFSU as a wide variety of food options and a rotating menu every couple of months! |
-| 2 | What is the finding hall called that student are usually aquitted with their first year at sfsu? | Yerba Buena Dining hall & Monarca/ City Eats |
+| 2 | What is the dinding hall called that student are usually aquitted with their first year at sfsu? | Yerba Buena Dining hall & Monarca/ City Eats |
 | 3 | What neighborhoods is sfsu near to? | Ocean Ave & Lake Mercet (sunset?) |
 | 4 | Whats a popular food item at the Halal shop at sfsu? | Chicken Tikka Masala over Rice |
 | 5 | Where is the Vista Room at sfsu located? | Rm. 401, Burk Hall |
@@ -94,7 +94,7 @@ If i were deploying this llm for real id want to be able to have a longer contex
 
 1.  Im afraid that my sources might not offer the proper information on making accurate output for the user since a lot of reviews created by students can be brief and a lot of sources about my domain can be very outdated/ hard to look for.
 
-2. 
+2.  Chunking the Reddit thread is risky because forum replies are short and disconnected, so packing several one-line comments up to ~500 characters can merge unrelated thoughts into a single chunk that doesn't stand on its own. I inspected 5 representative chunks (Yelp, Reddit, blog, article, dining) against the "standalone thought" test and confirmed the Reddit chunks are the weakest for this reason, while the review/article chunks read as complete thoughts. I also ran a cleaning QA pass across all 10 documents (checking for leftover HTML tags, HTML entities like &amp;/&nbsp;, and nav/boilerplate text) and found none. Final corpus: 137 chunks across 10 documents, within the 50–2,000 target range.
 
 ---
 
